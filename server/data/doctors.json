@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name_en": "Dr. Sarah Mitchell",
+    "name_ar": "د. سارة ميتشل",
+    "specialty_en": "Cosmetic Dentist & Clinical Director",
+    "specialty_ar": "طبيبة أسنان تجميلية ومديرة سريرية",
+    "bio_en": "Harvard-trained cosmetic dentist with 12 years crafting dream smiles in Dubai. Certified Invisalign provider.",
+    "bio_ar": "طبيبة تجميل حاصلة على تدريب من هارفارد مع 12 عاماً من الخبرة في دبي. مزودة Invisalign معتمدة.",
+    "emoji": "👩‍⚕️"
+  },
+  {
+    "id": 2,
+    "name_en": "Dr. Ahmed Al-Rashid",
+    "name_ar": "د. أحمد الراشد",
+    "specialty_en": "Orthodontist",
+    "specialty_ar": "طبيب تقويم أسنان",
+    "bio_en": "Board-certified orthodontist trained at Melbourne. Diamond Invisalign provider with 3,000+ cases.",
+    "bio_ar": "أخصائي تقويم معتمد تدرّب في ملبورن. مزود Invisalign الماسي مع أكثر من 3000 حالة.",
+    "emoji": "👨‍⚕️"
+  },
+  {
+    "id": 3,
+    "name_en": "Dr. Priya Sharma",
+    "name_ar": "د. بريا شارما",
+    "specialty_en": "Implant Surgeon & Periodontist",
+    "specialty_ar": "جراحة زراعة وأمراض اللثة",
+    "bio_en": "Masters in Oral Implantology (Frankfurt). Specialist in All-on-4 and minimally invasive implant surgery.",
+    "bio_ar": "ماجستير في زراعة الأسنان الفموية (فرانكفورت). متخصصة في All-on-4 وجراحة الزراعة طفيفة التوغل.",
+    "emoji": "👩‍⚕️"
+  },
+  {
+    "id": 4,
+    "name_en": "Dr. Khalid Hassan",
+    "name_ar": "د. خالد حسان",
+    "specialty_en": "Endodontist (Root Canal Specialist)",
+    "specialty_ar": "طبيب علاج جذور الأسنان",
+    "bio_en": "Renowned for painless root canal treatments using microscope-aided endodontics. Trained in Germany.",
+    "bio_ar": "مشهور بعلاجات جذور الأسنان غير المؤلمة باستخدام طب الجذور بالمجهر. تدرّب في ألمانيا.",
+    "emoji": "👨‍⚕️"
+  },
+  {
+    "id": 5,
+    "name_en": "Dr. Nour Al-Amin",
+    "name_ar": "د. نور الأمين",
+    "specialty_en": "Pediatric Dentist",
+    "specialty_ar": "طبيبة أسنان أطفال",
+    "bio_en": "Specialist in child dental care with a gentle, fun approach. Board certified in pediatric dentistry.",
+    "bio_ar": "متخصصة في رعاية أسنان الأطفال بنهج لطيف وممتع. معتمدة في طب أسنان الأطفال.",
+    "emoji": "👩‍⚕️"
+  }
+]

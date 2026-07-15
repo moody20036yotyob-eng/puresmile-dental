@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "category": "general",
+    "icon": "🦷",
+    "name_en": "General Check-up",
+    "name_ar": "فحص عام",
+    "price_en": "From AED 150",
+    "price_ar": "من 150 درهم",
+    "duration_en": "45 min",
+    "duration_ar": "45 دقيقة",
+    "desc_en": "Complete oral examination including digital X-rays, periodontal charting, and personalised treatment planning.",
+    "desc_ar": "فحص شامل للفم يشمل الأشعة الرقمية ورسم اللثة وخطة العلاج الشخصية."
+  },
+  {
+    "id": 2,
+    "category": "general",
+    "icon": "🧹",
+    "name_en": "Teeth Cleaning",
+    "name_ar": "تنظيف الأسنان",
+    "price_en": "From AED 250",
+    "price_ar": "من 250 درهم",
+    "duration_en": "60 min",
+    "duration_ar": "60 دقيقة",
+    "desc_en": "Professional scaling and polishing to remove tartar, plaque and surface stains.",
+    "desc_ar": "تنظيف احترافي وتلميع لإزالة الجير والبلاك والبقع السطحية."
+  },
+  {
+    "id": 3,
+    "category": "cosmetic",
+    "icon": "🌟",
+    "name_en": "Teeth Whitening",
+    "name_ar": "تبييض الأسنان",
+    "price_en": "From AED 800",
+    "price_ar": "من 800 درهم",
+    "duration_en": "90 min",
+    "duration_ar": "90 دقيقة",
+    "desc_en": "Zoom! in-chair whitening for instant results or custom take-home trays for lasting brightness.",
+    "desc_ar": "تبييض Zoom! داخل العيادة لنتائج فورية أو صواني منزلية مخصصة لإشراق دائم."
+  },
+  {
+    "id": 4,
+    "category": "cosmetic",
+    "icon": "✨",
+    "name_en": "Porcelain Veneers",
+    "name_ar": "قشور البورسلين",
+    "price_en": "From AED 1,500/tooth",
+    "price_ar": "من 1500 درهم/سن",
+    "duration_en": "2 visits",
+    "duration_ar": "زيارتان",
+    "desc_en": "Ultra-thin porcelain shells to correct shape, color, and alignment of your teeth.",
+    "desc_ar": "قشائح بورسلين رفيعة لتصحيح شكل ولون ومحاذاة أسنانك."
+  },
+  {
+    "id": 5,
+    "category": "ortho",
+    "icon": "📐",
+    "name_en": "Invisalign",
+    "name_ar": "انفيزيلاين",
+    "price_en": "From AED 8,000",
+    "price_ar": "من 8000 درهم",
+    "duration_en": "12–18 months",
+    "duration_ar": "12–18 شهراً",
+    "desc_en": "Clear aligner system for discreet tooth straightening. Removable and virtually invisible.",
+    "desc_ar": "نظام محاذاة شفاف لتقويم الأسنان بشكل غير محسوس. قابل للإزالة وغير مرئي تقريباً."
+  },
+  {
+    "id": 6,
+    "category": "surgical",
+    "icon": "🔬",
+    "name_en": "Dental Implants",
+    "name_ar": "زراعة الأسنان",
+    "price_en": "From AED 4,500",
+    "price_ar": "من 4500 درهم",
+    "duration_en": "3–6 months total",
+    "duration_ar": "3–6 أشهر إجمالاً",
+    "desc_en": "Titanium implants surgically placed to replace missing teeth with permanent natural-looking crowns.",
+    "desc_ar": "غرسات تيتانيوم توضع جراحياً لاستبدال الأسنان المفقودة بتيجان دائمة وطبيعية المظهر."
+  },
+  {
+    "id": 7,
+    "category": "pediatric",
+    "icon": "👶",
+    "name_en": "Pediatric Check-up",
+    "name_ar": "فحص الأطفال",
+    "price_en": "From AED 120",
+    "price_ar": "من 120 درهم",
+    "duration_en": "30 min",
+    "duration_ar": "30 دقيقة",
+    "desc_en": "Fun, gentle dental exams for children with interactive tools, prizes, and a positive first experience.",
+    "desc_ar": "فحوصات أسنان ممتعة ولطيفة للأطفال بأدوات تفاعلية وجوائز وتجربة أولى إيجابية."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "general",
+    "question_en": "How often should I visit the dentist?",
+    "question_ar": "كم مرة يجب أن أزور طبيب الأسنان؟",
+    "answer_en": "We recommend a check-up and professional cleaning every 6 months for most patients.",
+    "answer_ar": "نوصي بفحص وتنظيف احترافي كل 6 أشهر لمعظم المرضى."
+  },
+  {
+    "id": 2,
+    "category": "cost",
+    "question_en": "Do you accept insurance?",
+    "question_ar": "هل تقبلون التأمين؟",
+    "answer_en": "Yes. We are recognized by most major UAE health insurers including Daman, AXA, MetLife, Bupa, and Cigna.",
+    "answer_ar": "نعم. نحن معترف بنا من قِبل معظم شركات التأمين الصحي الرئيسية في الإمارات."
+  },
+  {
+    "id": 3,
+    "category": "booking",
+    "question_en": "How do I book an appointment?",
+    "question_ar": "كيف أحجز موعداً؟",
+    "answer_en": "You can book online 24/7 through our website, call us at +971 4 123 4567, or WhatsApp us at +971 50 999 8888.",
+    "answer_ar": "يمكنك الحجز عبر الإنترنت على مدار الساعة، أو الاتصال بنا على +971 4 123 4567."
+  }
+]

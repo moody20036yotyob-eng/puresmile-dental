@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "badge_en": "🏆 #1 Rated Clinic in Dubai",
+    "badge_ar": "🏆 العيادة الأولى في دبي",
+    "title_en": "Your Perfect Smile Starts Here",
+    "title_ar": "ابتسامتك المثالية تبدأ هنا",
+    "subtitle_en": "Experience world-class dental care at PureSmile Dental — where cutting-edge technology meets compassionate care in the heart of Dubai.",
+    "subtitle_ar": "اختبر رعاية أسنان عالمية المستوى في PureSmile Dental — حيث تلتقي التكنولوجيا المتطورة بالرعاية الرحيمة في قلب دبي."
+  },
+  "contact": {
+    "phone": "+971 4 123 4567",
+    "email": "hello@puresmile.ae",
+    "address_en": "Level 4, Aspect Tower, Business Bay, Dubai, UAE",
+    "address_ar": "الطابق 4، برج أسبكت، الخليج التجاري، دبي، الإمارات",
+    "hours_en": "Sun–Thu: 9am–8pm\nFri: 10am–6pm\nSat: 10am–4pm",
+    "hours_ar": "الأحد–الخميس: ٩ص–٨م\nالجمعة: ١٠ص–٦م\nالسبت: ١٠ص–٤م"
+  }
+}
