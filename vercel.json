@@ -12,8 +12,8 @@
     }
   },
   "env": {
-    "JWT_SECRET": "@jwt_secret",
-    "ADMIN_PASSWORD": "@admin_password",
-    "ALLOWED_ORIGIN": "@allowed_origin"
+    "JWT_SECRET": "puresmile_jwt_secret_2025_production_key",
+    "ADMIN_PASSWORD": "admin123",
+    "ALLOWED_ORIGIN": "https://clinc5.vercel.app"
   }
 }
